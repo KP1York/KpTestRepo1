@@ -2,6 +2,14 @@
 
 
 
+Integration with Oracle
+
+PyCharm 
+
+
+
+
+
 Following slide deck from GitHub training
 
 
