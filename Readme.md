@@ -14,6 +14,12 @@ Folders and sub directories
 
 
 
+Use pull request on published GitHub to merge - various gateway operation can be done here. 
+
+Then Fetch origin and Pull into local - desktop
+
+
+
 
 
 
