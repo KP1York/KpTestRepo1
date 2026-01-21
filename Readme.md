@@ -2,9 +2,9 @@
 
 
 
--\[] Create a new file
+-\[X] Create a new file
 
--\[] make our first commit
+-\[X] make our first commit
 
 -\[] fix this typo
 
