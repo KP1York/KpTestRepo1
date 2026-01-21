@@ -4,11 +4,7 @@
 
 Integration with Oracle
 
-PyCharm
-
-
-
-Note 3
+PyCharm 
 
 
 
