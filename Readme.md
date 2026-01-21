@@ -2,11 +2,15 @@
 
 
 
-Integration with Oracle
+Integration with Oracle possible GUI
 
 PyCharm
 
-Git Bash or equiv for GitHub
+Git Bash or equiv for GitHubn for command line interface
+
+
+
+Folders and sub directories
 
 
 
