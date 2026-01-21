@@ -6,6 +6,12 @@ Integration with Oracle
 
 PyCharm
 
+Git Bash or equiv for GitHub
+
+
+
+
+
 
 
 Note 3
