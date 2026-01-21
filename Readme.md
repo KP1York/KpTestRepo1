@@ -20,6 +20,12 @@ Then Fetch origin and Pull into local - desktop
 
 
 
+Collaborators across project groups - meeting to discuss changes every 3 weeks or more...
+
+Using Pull/merge functionality as good practice within the team. 
+
+
+
 
 
 
