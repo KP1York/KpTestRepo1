@@ -14,7 +14,7 @@ Note 3
 
 Note 4
 
-
+fgdr
 
 
 
@@ -26,5 +26,5 @@ Following slide deck from GitHub training
 
 -\[X] make our first commit
 
--\[] fix this typo
+-\[X] fix this typo
 
