@@ -24,6 +24,6 @@ todo - Forks to be done later - see Slides
 
 Following slide deck from GitHub training - see Slack channel - Research Coding Club
 
-Using cmd line interface - Bit Bash. 
+Using cmd line interface - Git Bash. Open up from Windows Explorer as usual. Git Add *.*, Git Commit, Git Push.  
 
 
