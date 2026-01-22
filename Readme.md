@@ -22,7 +22,8 @@ Using Pull/merge functionality as good practice within the team.
 
 todo - Forks to be done later - see Slides
 
-Following slide deck from GitHub training
+Following slide deck from GitHub training - see Slack channel - Research Coding Club
+
 
 
 
