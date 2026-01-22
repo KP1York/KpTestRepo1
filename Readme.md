@@ -24,6 +24,6 @@ todo - Forks to be done later - see Slides
 
 Following slide deck from GitHub training - see Slack channel - Research Coding Club
 
-
+Using cmd line interface - Bit Bash. 
 
 
