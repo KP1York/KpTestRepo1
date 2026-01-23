@@ -23,14 +23,14 @@ attach git to existing Bitbucket repos in directories. It will reproduce directo
 
 Need to initialise by adding Readme file to repository
 And also to commit uploaded files. 
- 
- echo "# SIA_TEST_DegreeOutcomesMigration" >> README.md
- git init
- git add README.md
- git commit -m "first commit"
- git branch -M main
- git remote add origin https://github.com/KP1York/SIA_TEST_DegreeOutcomesMigration.git
- git push -u origin main
+		 
+		 echo "# SIA_TEST_DegreeOutcomesMigration" >> README.md
+		 git init
+		 git add README.md
+		 git commit -m "first commit"
+		 git branch -M main
+		 git remote add origin https://github.com/KP1York/SIA_TEST_DegreeOutcomesMigration.git
+		 git push -u origin main
 
 Use **pull** request on published GitHub to merge - various gateway operation can be done here. 
 
