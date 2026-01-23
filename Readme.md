@@ -16,7 +16,9 @@ https://gemini.google.com/app/85e1b2ff44aadc06
   * Name your new GitHub repository and set the privacy (Public or Private).
   * When prompted, enter your Bitbucket credentials (use the App Password here).
   * Click Begin import. GitHub will notify you via email once it’s finished.
-
+  * Error importing this way
+  * 
+git clone git@bitbucket.org:university-of-york/biu-degree-outcomes.git
 attach git to existing Bitbucket repos in directories. It will reproduce directory structure.
 
 
