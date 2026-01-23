@@ -7,8 +7,17 @@ PyCharm integrates when coding with python
 
 Install Git Bash or equiv for GitHub for command line interface
 
-Folders and sub directories
-Migration  - attach git to existing Bitbucket repos in directories. It will reproduce directory structure. 
+Migration  - Folders and sub directories
+GitHub’s web-based importer is the best choice for standard repositories because it brings over your commit history and branches automatically.
+https://gemini.google.com/app/85e1b2ff44aadc06
+
+  * Clone bitbucket repo e.g git clone https://kdp508@bitbucket.org/university-of-york/biu-degree-outcomes.git
+  * Log in to GitHub and click the + icon in the top right, then select Import repository.
+  * Name your new GitHub repository and set the privacy (Public or Private).
+  * When prompted, enter your Bitbucket credentials (use the App Password here).
+  * Click Begin import. GitHub will notify you via email once it’s finished.
+
+attach git to existing Bitbucket repos in directories. It will reproduce directory structure.
 
 
 Use **pull** request on published GitHub to merge - various gateway operation can be done here. 
