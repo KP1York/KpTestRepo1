@@ -21,6 +21,8 @@ https://gemini.google.com/app/85e1b2ff44aadc06
 git clone git@bitbucket.org:university-of-york/biu-degree-outcomes.git
 attach git to existing Bitbucket repos in directories. It will reproduce directory structure.
 
+Need to initialise by adding Readme file to repository
+And also to commit uploaded files. 
 
 Use **pull** request on published GitHub to merge - various gateway operation can be done here. 
 
